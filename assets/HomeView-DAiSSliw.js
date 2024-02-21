@@ -1,1 +1,0 @@
-import{_ as e}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{c as t,o as c,a as o}from"./index-1F98QFno.js";const s={},a={class:"container mx-a"},n=o("div",{class:"text-white text-center bg-black",p:"x-4 y-3"},"這是首頁",-1),r=[n];function _(i,m){return c(),t("main",a,r)}const l=e(s,[["render",_]]);export{l as default};
